@@ -1,6 +1,6 @@
-# Title (replace with your title)
+# RegEX Tutorial
 
-Introductory paragraph (replace this with your text)
+This is the Regex Tutorial for Assignment 17
 
 ## Summary
 
